@@ -11,6 +11,7 @@
     background-color: rgb(3, 3, 34);
     color: white;
     margin-bottom: 60px;
+    font-family: 'Single Day', cursive;
     
 }
 #click{
@@ -37,6 +38,8 @@ width: 100%;
 display: flex;
 justify-content: center;
 align-items: center;
+font-family: 'Single Day', cursive;
+
 }
 .play h1{
     padding: 10px 15px;
