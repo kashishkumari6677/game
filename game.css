@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#rock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(3, 3, 34);
+    color: white;
+    margin-bottom: 60px;
+    
+}
+#click{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+#click img{
+    width: 150px;
+    height: 150px;
+   border-radius: 50%;
+}
+#click button{
+    width: 15%;
+    background-color:white ;
+    border: none;
+    cursor: pointer;
+}
+.play{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.play h1{
+    padding: 10px 15px;
+    background-color: rgb(3, 3, 34);
+    color: white;
+    border-radius: 10px;
+}
